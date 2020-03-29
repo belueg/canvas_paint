@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(141deg, #9fb8ad , #1fc8db , #2cb5e8);
+    text-align: center;
+    font-family: cursive;
+}
+
+.container{
+    width: 550px;
+    margin-right: 0;
+    display: inline-block;
+}
+
+.my-canvas{
+    border:1px solid black;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+button{
+    font-family: cursive;
+    font-size: 1.2em;
+}
+
+button:hover{
+    background-color: darkturquoise;
+}
